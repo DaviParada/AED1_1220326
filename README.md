@@ -1,4 +1,4 @@
-# 🚀 Beecrowd Solutions — AED1 (UNIFESP)
+# 🚀 Soluções Beecrowd — AED1 (UNIFESP)
 
 Repositório dedicado ao armazenamento das resoluções dos exercícios da plataforma **Beecrowd**, desenvolvidas por mim durante a disciplina de **Algoritmos e Estruturas de Dados 1 (AED1)**, ministrada pelo **Prof. Arlindo** na **UNIFESP** (Universidade Federal de São Paulo).
 
